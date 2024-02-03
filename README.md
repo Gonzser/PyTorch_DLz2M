@@ -53,5 +53,8 @@ Course materials/outline
 About this course
 Status (the progress of the course creation)
 Log (a log of the course material creation process)
+
 https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/misc-pytorch-course-launch-cover-white-text-black-background.jpg
+
+https://www.learnpytorch.io/
 

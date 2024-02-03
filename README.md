@@ -41,3 +41,15 @@ Plus, there’s plenty of people on GitHub who are willing to help out! (if you 
 Issues with the course code
 
 If you find any issues with the course code, please post an issue on the course GitHub issues: https://github.com/mrdbourke/pytorch-deep-learning/issues
+
+
+Learn PyTorch for Deep Learning
+Welcome to the Zero to Mastery Learn PyTorch for Deep Learning course, the second best place to learn PyTorch on the internet (the first being the PyTorch documentation).
+
+Update April 2023: New tutorial for PyTorch 2.0 is live! And because PyTorch 2.0 is an additive (new features) and backward-compatible release, all previous course materials will still work with PyTorch 2.0.
+pytorch deep learning by zero to mastery cover photo with different sections of the course
+Contents of this page
+Course materials/outline
+About this course
+Status (the progress of the course creation)
+Log (a log of the course material creation process)

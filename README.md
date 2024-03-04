@@ -17,6 +17,15 @@ You can find all of the course code, projects, and slides at the below GitHub re
 Get the code: https://github.com/mrdbourke/pytorch-deep-learning
 
 
+USEFUL LINKS
+
+https://pytorch.org/
+https://paperswithcode.com/sota
+https://www.learnpytorch.io/
+
+https://www.kaggle.com/
+
+
 
 Questions and answers (Q&A)
 
